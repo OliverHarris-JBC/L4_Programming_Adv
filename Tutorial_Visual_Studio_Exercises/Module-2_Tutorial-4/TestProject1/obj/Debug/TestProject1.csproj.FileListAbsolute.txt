@@ -1,0 +1,7 @@
+Z:\Module-2\Module-2_Tutorial-4\TestProject1\bin\Debug\TestProject1.dll
+Z:\Module-2\Module-2_Tutorial-4\TestProject1\bin\Debug\TestProject1.pdb
+Z:\Module-2\Module-2_Tutorial-4\TestProject1\bin\Debug\_Tutor_Demonstration.exe
+Z:\Module-2\Module-2_Tutorial-4\TestProject1\bin\Debug\_Tutor_Demonstration.pdb
+Z:\Module-2\Module-2_Tutorial-4\TestProject1\obj\Debug\TestProject1.dll
+Z:\Module-2\Module-2_Tutorial-4\TestProject1\obj\Debug\TestProject1.pdb
+Z:\Module-2\Module-2_Tutorial-4\TestProject1\obj\Debug\TestProject1.csprojResolveAssemblyReference.cache

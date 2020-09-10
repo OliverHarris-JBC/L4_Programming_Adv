@@ -1,0 +1,5 @@
+Z:\Module-2\Module-2_Tutorial-4\Core_Exercise-1.2\bin\Debug\Core_Exercise-1.2.exe
+Z:\Module-2\Module-2_Tutorial-4\Core_Exercise-1.2\bin\Debug\Core_Exercise-1.2.pdb
+Z:\Module-2\Module-2_Tutorial-4\Core_Exercise-1.2\obj\x86\Debug\Core_Exercise-1.2.exe
+Z:\Module-2\Module-2_Tutorial-4\Core_Exercise-1.2\obj\x86\Debug\Core_Exercise-1.2.pdb
+Z:\Module-2\Module-2_Tutorial-4\Core_Exercise-1.2\obj\x86\Debug\Core_Exercise-1.2.csprojResolveAssemblyReference.cache

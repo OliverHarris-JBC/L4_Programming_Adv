@@ -1,0 +1,5 @@
+Z:\Module-2\Module-2_Tutorial-5\_Tutor_Demonstration\bin\Debug\_Tutor_Demonstration.exe
+Z:\Module-2\Module-2_Tutorial-5\_Tutor_Demonstration\bin\Debug\_Tutor_Demonstration.pdb
+Z:\Module-2\Module-2_Tutorial-5\_Tutor_Demonstration\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Module-2\Module-2_Tutorial-5\_Tutor_Demonstration\obj\x86\Debug\_Tutor_Demonstration.exe
+Z:\Module-2\Module-2_Tutorial-5\_Tutor_Demonstration\obj\x86\Debug\_Tutor_Demonstration.pdb

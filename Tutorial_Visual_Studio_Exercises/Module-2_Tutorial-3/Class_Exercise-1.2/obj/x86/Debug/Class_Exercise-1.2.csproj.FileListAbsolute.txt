@@ -1,0 +1,9 @@
+z:\Module-2\Module-2_Tutorial-3\Class_Exercise-1.2\bin\Debug\Class_Exercise-1.2.exe
+z:\Module-2\Module-2_Tutorial-3\Class_Exercise-1.2\bin\Debug\Class_Exercise-1.2.pdb
+z:\Module-2\Module-2_Tutorial-3\Class_Exercise-1.2\obj\x86\Debug\Class_Exercise-1.2.exe
+z:\Module-2\Module-2_Tutorial-3\Class_Exercise-1.2\obj\x86\Debug\Class_Exercise-1.2.pdb
+Z:\Module-2-Next-Revision\Module-2\Tutorial_Visual_Studio_Exercises\Module-2_Tutorial-3\Class_Exercise-1.2\bin\Debug\Class_Exercise-1.2.exe
+Z:\Module-2-Next-Revision\Module-2\Tutorial_Visual_Studio_Exercises\Module-2_Tutorial-3\Class_Exercise-1.2\bin\Debug\Class_Exercise-1.2.pdb
+Z:\Module-2-Next-Revision\Module-2\Tutorial_Visual_Studio_Exercises\Module-2_Tutorial-3\Class_Exercise-1.2\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Module-2-Next-Revision\Module-2\Tutorial_Visual_Studio_Exercises\Module-2_Tutorial-3\Class_Exercise-1.2\obj\x86\Debug\Class_Exercise-1.2.exe
+Z:\Module-2-Next-Revision\Module-2\Tutorial_Visual_Studio_Exercises\Module-2_Tutorial-3\Class_Exercise-1.2\obj\x86\Debug\Class_Exercise-1.2.pdb

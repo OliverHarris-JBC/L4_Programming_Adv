@@ -1,0 +1,5 @@
+Z:\Module-2\Module-2_Tutorial-1\Core_Exercise-1.3\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Module-2\Module-2_Tutorial-1\Core_Exercise-1.3\bin\Debug\Core_Exercise-1.3.exe
+Z:\Module-2\Module-2_Tutorial-1\Core_Exercise-1.3\bin\Debug\Core_Exercise-1.3.pdb
+Z:\Module-2\Module-2_Tutorial-1\Core_Exercise-1.3\obj\x86\Debug\Core_Exercise-1.3.exe
+Z:\Module-2\Module-2_Tutorial-1\Core_Exercise-1.3\obj\x86\Debug\Core_Exercise-1.3.pdb

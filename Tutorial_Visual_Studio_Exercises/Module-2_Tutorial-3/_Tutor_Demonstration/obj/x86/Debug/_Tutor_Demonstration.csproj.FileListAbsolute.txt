@@ -1,0 +1,9 @@
+z:\Module-2\Module-2_Tutorial-3\_Tutor_Demonstration\bin\Debug\_Tutor_Demonstration.exe
+z:\Module-2\Module-2_Tutorial-3\_Tutor_Demonstration\bin\Debug\_Tutor_Demonstration.pdb
+z:\Module-2\Module-2_Tutorial-3\_Tutor_Demonstration\obj\x86\Debug\_Tutor_Demonstration.exe
+z:\Module-2\Module-2_Tutorial-3\_Tutor_Demonstration\obj\x86\Debug\_Tutor_Demonstration.pdb
+Z:\Module-2-Next-Revision\Module-2\Tutorial_Visual_Studio_Exercises\Module-2_Tutorial-3\_Tutor_Demonstration\bin\Debug\_Tutor_Demonstration.exe
+Z:\Module-2-Next-Revision\Module-2\Tutorial_Visual_Studio_Exercises\Module-2_Tutorial-3\_Tutor_Demonstration\bin\Debug\_Tutor_Demonstration.pdb
+Z:\Module-2-Next-Revision\Module-2\Tutorial_Visual_Studio_Exercises\Module-2_Tutorial-3\_Tutor_Demonstration\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Module-2-Next-Revision\Module-2\Tutorial_Visual_Studio_Exercises\Module-2_Tutorial-3\_Tutor_Demonstration\obj\x86\Debug\_Tutor_Demonstration.exe
+Z:\Module-2-Next-Revision\Module-2\Tutorial_Visual_Studio_Exercises\Module-2_Tutorial-3\_Tutor_Demonstration\obj\x86\Debug\_Tutor_Demonstration.pdb

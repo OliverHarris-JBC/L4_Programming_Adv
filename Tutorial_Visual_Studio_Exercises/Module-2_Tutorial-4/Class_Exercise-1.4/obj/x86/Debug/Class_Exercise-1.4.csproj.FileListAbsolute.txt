@@ -1,0 +1,4 @@
+Z:\Module-2\Module-2_Tutorial-4\Class_Exercise-1.4\bin\Debug\Class_Exercise-1.4.exe
+Z:\Module-2\Module-2_Tutorial-4\Class_Exercise-1.4\bin\Debug\Class_Exercise-1.4.pdb
+Z:\Module-2\Module-2_Tutorial-4\Class_Exercise-1.4\obj\x86\Debug\Class_Exercise-1.4.exe
+Z:\Module-2\Module-2_Tutorial-4\Class_Exercise-1.4\obj\x86\Debug\Class_Exercise-1.4.pdb

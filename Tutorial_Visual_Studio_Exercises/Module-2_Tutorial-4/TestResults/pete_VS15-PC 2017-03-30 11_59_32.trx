@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="3d4bab7c-42ec-4577-a0d8-e2eff52789eb" name="pete@VS15-PC 2017-03-30 11:59:32" runUser="JBCLAN\pete" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="9f09f47c-d9d8-45dd-8509-6e67c9aa98b3">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="pete_VS15-PC 2017-03-30 11_59_32">
+      <DeploymentItem filename="Z:\Module-2\Module-2_Tutorial-4\_Tutor_Demonstration\bin\Debug\_Tutor_Demonstration.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2017-03-30T11:59:32.8951816+01:00" queuing="2017-03-30T11:59:33.9403883+01:00" start="2017-03-30T11:59:34.0963893+01:00" finish="2017-03-30T11:59:35.0167952+01:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="2" executed="2" passed="2" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="z:\module-2\module-2_tutorial-4\testproject1\bin\debug\testproject1.dll" id="59863143-3238-122e-4d8a-637b491cc755">
+      <Execution id="ac5ad49d-7334-4b22-9b95-601d52993dec" />
+      <TestMethod codeBase="Z:/Module-2/Module-2_Tutorial-4/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+    <UnitTest name="TestMethod1" storage="z:\module-2\module-2_tutorial-4\testproject1\bin\debug\testproject1.dll" id="bcbff09f-1bf5-328d-2908-9d4d9ded0753">
+      <Execution id="05dd8838-5206-4a32-bcd9-e81a35cca105" />
+      <TestMethod codeBase="Z:/Module-2/Module-2_Tutorial-4/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest2, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="59863143-3238-122e-4d8a-637b491cc755" executionId="ac5ad49d-7334-4b22-9b95-601d52993dec" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bcbff09f-1bf5-328d-2908-9d4d9ded0753" executionId="05dd8838-5206-4a32-bcd9-e81a35cca105" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="ac5ad49d-7334-4b22-9b95-601d52993dec" testId="59863143-3238-122e-4d8a-637b491cc755" testName="TestMethod1" computerName="VS15-PC" duration="00:00:00.0972486" startTime="2017-03-30T11:59:34.2055900+01:00" endTime="2017-03-30T11:59:34.8919944+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ac5ad49d-7334-4b22-9b95-601d52993dec">
+    </UnitTestResult>
+    <UnitTestResult executionId="05dd8838-5206-4a32-bcd9-e81a35cca105" testId="bcbff09f-1bf5-328d-2908-9d4d9ded0753" testName="TestMethod1" computerName="VS15-PC" duration="00:00:00.0002551" startTime="2017-03-30T11:59:34.9075945+01:00" endTime="2017-03-30T11:59:34.9075945+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="05dd8838-5206-4a32-bcd9-e81a35cca105">
+    </UnitTestResult>
+  </Results>
+</TestRun>
